@@ -613,10 +613,13 @@ Publish the website in the given URL.
 </html>
 ~~~
 ## OUTPUT:
-
-
-
 ### Home Page:
+![](web1.png)
+![](web2.png)
+![](web3.png)
+
+
+
 
 
 ## Result:
